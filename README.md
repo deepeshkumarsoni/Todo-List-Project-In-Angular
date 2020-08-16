@@ -5,7 +5,7 @@
 Angular is a plateform for building Dynamic Web Page Applications(SAP). It has its own Library and Framework which itself build in Angular.
 
 ```
-* Example :- 
+Example :- 
 
              Angular Core
 
@@ -16,3 +16,11 @@ Angular is a plateform for building Dynamic Web Page Applications(SAP). It has i
              Form Validation Library
     
 ```
+
+# Things Known First :
+
+    -> Node.js
+    -> RxJs
+    -> TypeScript
+    -> JavaScirpt
+    -> HTML , CSS , BootStrap
