@@ -1,9 +1,10 @@
 # TodoApp In Angular
 
-##Intro : 
+## Intro : 
 
 Angular is a plateform for building Dynamic Web Page Applications(SAP). It has its own Library and Framework which itself build in Angular.
 
+```
 * Example :- 
 
              Angular Core
@@ -14,4 +15,4 @@ Angular is a plateform for building Dynamic Web Page Applications(SAP). It has i
 
              Form Validation Library
     
-
+```
