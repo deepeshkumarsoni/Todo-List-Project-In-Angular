@@ -19,8 +19,8 @@ Example :-
 
 # Things Known First :
 
-    -> Node.js
-    -> RxJs
-    -> TypeScript
-    -> JavaScirpt
-    -> HTML , CSS , BootStrap
+    1. Node.js
+    2. RxJs
+    3. TypeScript
+    4. JavaScirpt
+    5. HTML , CSS , BootStrap
